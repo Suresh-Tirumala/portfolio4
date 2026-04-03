@@ -115,7 +115,7 @@ const Footer = () => {
                 {/* Divider */}
                 <div className="border-t border-[#7042f820] pt-6 flex flex-col md:flex-row items-center justify-between gap-4">
                     <p className="text-gray-600 text-sm">
-                        © {currentYear} Jenin Joseph. All rights reserved.
+                        © {currentYear} Suresh Tirumala. All rights reserved.
                     </p>
                     <p className="text-gray-700 text-xs">
                         Built with Next.js · TypeScript · Framer Motion · Tailwind CSS
